@@ -1,0 +1,137 @@
+body
+{
+
+}
+.navi
+{
+    background-color: #232323;
+    color: #FFFFFF;
+    height: 64px;
+}
+.navi li
+{
+    border-right: 1px #2e2e2e solid;
+    padding: 0px;
+    list-style: none;
+}
+.navi li a
+{
+    display: block;
+    height: 64px;
+    display: -webkit-box;
+    -webkit-box-orient: horizontal;
+    -webkit-box-pack: center;
+    -webkit-box-align: center;
+    display: -moz-box;
+    -moz-box-orient: horizontal;
+    -moz-box-pack: center;
+    -moz-box-align: center;
+    display: -o-box;
+    -o-box-orient: horizontal;
+    -o-box-pack: center;
+    -o-box-align: center;
+    display: -ms-box;
+    -ms-box-orient: horizontal;
+    -ms-box-pack: center;
+    -ms-box-align: center;
+    display: box;
+    box-orient: horizontal;
+    box-pack: center;
+    box-align: center;
+}
+.navi li:last-child
+{
+    border-right: none;
+}
+.navi ul
+{
+    margin: 0;
+}
+.navi .btn
+{
+    min-width: 64px;
+    width: 16.566666666%;
+    height: 64px;
+    float: left;
+}
+.navi .logo
+{
+    width: 50%;
+    min-width: 189px;
+    height: 64px;
+    float: left;
+}
+
+.btn-blue
+{
+    background-color: #5a9ba8;
+}
+.index-bg
+{
+    
+    position: absolute;
+}
+
+.menus
+{
+
+    width: 100%;
+    height: 120px;
+    position: absolute;
+    left: 0;
+    bottom: 50px;
+}
+.menus .menu-btn
+{
+    width: 120px;
+    height: 40px;
+    -moz-opacity: 0.7;
+    opacity: 0.7;
+    z-index: 100;
+    background-color: #eee;
+    color: #000;
+    margin: 5px;
+}
+.menus .menu-btn a
+{
+    display: block;
+    text-decoration: none;
+    color: #000000;
+     width: 120px;
+    height: 40px;
+    display: -webkit-box;
+    -webkit-box-orient: horizontal;
+    -webkit-box-pack: center;
+    -webkit-box-align: center;
+    display: -moz-box;
+    -moz-box-orient: horizontal;
+    -moz-box-pack: center;
+    -moz-box-align: center;
+    display: -o-box;
+    -o-box-orient: horizontal;
+    -o-box-pack: center;
+    -o-box-align: center;
+    display: -ms-box;
+    -ms-box-orient: horizontal;
+    -ms-box-pack: center;
+    -ms-box-align: center;
+    display: box;
+    box-orient: horizontal;
+    box-pack: center;
+    box-align: center;
+    
+}
+
+.category-one{
+    background-color: #000000;
+}
+.category-two{
+    background-color: #148F77;
+}
+.category-three{
+    background-color: #46627F;
+}
+.category-box{
+    height: 160px;
+    
+}

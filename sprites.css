@@ -1,0 +1,28 @@
+.arrow-left,.chevron-left,.angle-left,.arrow-left2,.arrow-left3,.arrow-left4,.arrow-left5 {
+	display: inline-block;
+	width: 64px;
+	height: 64px;
+	background-image: url(sprites.png);
+	background-repeat: no-repeat;
+}
+.arrow-left {
+	background-position: 0 0;
+}
+.chevron-left {
+	background-position: -128px 0;
+}
+.angle-left {
+	background-position: -256px 0;
+}
+.arrow-left2 {
+	background-position: -384px 0;
+}
+.arrow-left3 {
+	background-position: -512px 0;
+}
+.arrow-left4 {
+	background-position: -640px 0;
+}
+.arrow-left5 {
+	background-position: -768px 0;
+}
